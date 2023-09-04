@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Luca and I'm a Full-Stack Web Development.</h2>
+<marquee behavior="scroll" direction="left" scrollamount="4">
+  Hi 👋! My name is Luca and I'm a Full-Stack Web Development.
+</marquee>
+
 
 ###
 
