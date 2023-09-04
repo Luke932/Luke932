@@ -1,6 +1,8 @@
-<marquee behavior="scroll" direction="left" scrollamount="4">
-  Hi 👋! My name is Luca and I'm a Full-Stack Web Development.
-</marquee>
+<div style="overflow: hidden; white-space: nowrap;">
+  <p style="animation: scroll 10s linear infinite;">
+    Hi 👋! My name is Luca and I'm a Full-Stack Web Development.
+  </p>
+</div>
 
 
 ###
