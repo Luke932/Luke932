@@ -1,6 +1,6 @@
 <div style="overflow: hidden; white-space: nowrap;">
   <p style="animation: scroll 10s linear infinite;">
-    Hi 👋! My name is Luca and I'm a Full-Stack Web Development.
+    Hi 👋! My name is Luca and I'm a Full-Stack Web Developer.
   </p>
 </div>
 
