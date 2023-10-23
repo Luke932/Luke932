@@ -2,6 +2,11 @@
   <p style="animation: scroll 10s linear infinite;">
     Hi 👋! My name is Luca and I'm a Full-Stack Web Developer.
   </p>
+  <p>
+    Salve, sono Luca Giacalone, di anni 30, sono diplomato nel settore turistico da 11 anni, 😊 ma ho sempre avuto una gran passione per i computer e lo sviluppo web in particolare, 💻 e da breve ho preso la decisione di entrare in questo campo e devo dire che credo di aver fatto la miglior scelta che avrei mai potuto fare, 🌟 e sono pronto per far gran salti di qualità approfondendo ogni giorno quello che ci offre questo lavoro. 🚀
+
+Hello, I'm Luca Giacalone, 30 years old, and I have been a graduate in the tourism sector for 11 years. However, I have always had a great passion for computers and web development in particular. Recently, I made the decision to enter this field, and I must say that I believe I have made the best choice I could have ever made. I am eager to take big leaps in quality by deepening my knowledge every day and embracing all the opportunities that this profession offers. 🌟
+  </p>
 </div>
 
 
